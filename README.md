@@ -2,7 +2,7 @@
 
 Simple Multi-User Chat.
 
-*The code has fallen to "Rewrite it in Rust" disease. You can find the legacy Go version in [./legacy-go-version](./legacy-go-version) if you still need it*
+*This codebase has fallen into my hands and shall be used to train my Rust skills at the cost of butchering and completely trashing the original code. Sorry*
 
 ## Quick Start
 
